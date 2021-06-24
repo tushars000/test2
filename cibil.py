@@ -2,7 +2,6 @@ a = {
     "cibil_score": 655,
 	"loan_application_number": "ZL3981694607",
 	"loan_request_status": 2.6,
-    "loan_request_id": ObjectId("60d42b64072ccdb67d1219a8"),
 	"pan": "IKBPS8797C",
 	"applicant_type": 1,
     "cibil_xml_response":"""<?xml version=\"1.0\"?>
